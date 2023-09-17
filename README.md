@@ -48,7 +48,7 @@ npm install
 1. Clone the project repository to your local machine using the following command:
 
 ```md
-git clone 'https://github.com/MartinCespedes/MERN_Book_Search_Engine.git'
+git clone 'https://github.com/hades255/hades-book-store-mern.git'
 ```
 
 2. Install the project dependencies by running the following command from the project root directory:
